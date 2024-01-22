@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreShadowProperties", "EfCoreShadowProperties.csproj", "{1FD8A37B-4B37-4D20-B0B4-36AEF29692E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD8A37B-4B37-4D20-B0B4-36AEF29692E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD8A37B-4B37-4D20-B0B4-36AEF29692E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD8A37B-4B37-4D20-B0B4-36AEF29692E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD8A37B-4B37-4D20-B0B4-36AEF29692E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AA36994-3B1B-4332-A874-8596B233AD24}
+	EndGlobalSection
+EndGlobal
